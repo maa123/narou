@@ -5,5 +5,5 @@
 #
 
 module Narou
-  VERSION = "3.7.1-fork"
+  VERSION = "3.7.1.fork-maa"
 end
